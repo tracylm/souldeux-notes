@@ -1,0 +1,1 @@
+This is a cool project that allows a user to store private notes online.
